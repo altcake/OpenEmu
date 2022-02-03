@@ -55,12 +55,18 @@
 [submodule "Bliss"]
 	path = Bliss
 	url = git@github.com:OpenEmu/Bliss-Core.git
+[submodule "MAME"]
+	path = MAME
+	url = git@github.com:OpenEmu/UME-Core.git
 [submodule "Potator-Core"]
 	path = Potator-Core
 	url = https://github.com/OpenEmu/Potator-Core.git
 [submodule "PokeMini"]
 	path = PokeMini
 	url = git@github.com:OpenEmu/PokeMini-Core
+[submodule "PPSSPP"]
+	path = PPSSPP
+	url = git@github.com:OpenEmu/PPSSPP-Core.git
 [submodule "Reicast"]
 	path = Reicast
 	url = git@github.com:OpenEmu/Reicast-Core.git
